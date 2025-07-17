@@ -1,5 +1,4 @@
 ## I am Yu Liu 😃
-- 👨‍🎓 I am pursuing the M.S. degree in Software Engineering at Dalian University, expected to graduate in June 2027.
 - 🔍️ My research focuses on Open-set Recognition.
 - 👨‍💻 I am passionate about computer science and the IT industry, and I aspire to become an outstanding developer.
 - 🏡 Works: None at the moment.
